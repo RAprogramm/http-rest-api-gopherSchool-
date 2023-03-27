@@ -1,3 +1,4 @@
 bind_addr = ":8080"
 log_level = "debug"
 database_url = "host=localhost dbname=restapi_dev sslmode=disable"
+session_key = "4985498539bbnvn48fnvd4759c842fj98743950fh92834j0f98273948nnc9283h49d89h9h9283479hhdjsjsskkxkjc3897389"
